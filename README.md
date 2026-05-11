@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tithi Saha 👋</h1>
+<h1 align="center">Hi, I'm Tithi Saha</h1>
 
 <p align="center">
   <em>Database Engineer @ Therap (BD) · HCI & Usable Security Researcher · Full-Stack Developer · Programmer</em>
@@ -20,7 +20,7 @@ I'm a **Database Engineer at Therap (BD)**, where I work on Oracle Database Admi
 
 - 🏢 Currently at **Therap (BD)** working on **query writing & optimization, Oracle RAC Database, OCI, AWR Warehouse from configuration with automated ETL process to everyday use, network and database link configuration among databases, database migration, patching, Oracle 26ai Database Microservices**
 - 🔬 Recent Research and Development : **vector similarity search with ResNet50 embeddings + PostgreSQL** for image data
-- 📄 Paper accepted at **ACM SAC 2026** on usability challenges in decentralized messaging applications
+- 📄 Poster accepted at **ACM SAC 2026** on usability challenges and privacy & security issues in decentralized messaging applications
 - 🎓 B.Sc. in CSE from **Shahjalal University of Science & Technology (SUST)**, 2024
 - 🏆 Hackathon champion (**HackNSU Season 4**) and competitive programmer (Codeforces max 1628)
 - 📫 Reach me at **sara.saha.2000@gmail.com**
