@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tithi Saha 👋</h1>
 
 <p align="center">
-  <em>Database Engineer @ Therap (BD) · HCI & Usable Security Researcher · Full-Stack Developer</em>
+  <em>Database Engineer @ Therap (BD) · HCI & Usable Security Researcher · Full-Stack Developer · Programmer</em>
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ### 🗄️ About Me
 
-I'm a **Database Engineer at Therap (BD)**, where I work on Oracle performance tuning, large-scale data infrastructure, and database administration on Oracle Cloud. My research background bridges **HCI and usable security** — I'm particularly interested in how users actually experience decentralized and privacy-preserving systems.
+I'm a **Database Engineer at Therap (BD)**, where I work on Oracle Database Administration, query writing & performance tuning, large-scale data infrastructure, Oracle Cloud Infrastructure (OCI), and Oracle 26ai Database Microservices. My research background bridges **HCI and usable security**, I'm particularly interested in how users actually experience decentralized and privacy-preserving systems.
 
-- 🏢 Currently at **Therap (BD)** working on **query optimization, Oracle RAC on OCI, AWR Warehouse, and database migration**
-- 🔬 Recent research: **vector similarity search with ResNet50 embeddings + PostgreSQL** for image data
+- 🏢 Currently at **Therap (BD)** working on **query writing & optimization, Oracle RAC Database, OCI, AWR Warehouse from configuration with automated ETL process to everyday use, network and database link configuration among databases, database migration, patching, Oracle 26ai Database Microservices**
+- 🔬 Recent Research and Development : **vector similarity search with ResNet50 embeddings + PostgreSQL** for image data
 - 📄 Paper accepted at **ACM SAC 2026** on usability challenges in decentralized messaging applications
 - 🎓 B.Sc. in CSE from **Shahjalal University of Science & Technology (SUST)**, 2024
 - 🏆 Hackathon champion (**HackNSU Season 4**) and competitive programmer (Codeforces max 1628)
@@ -29,12 +29,12 @@ I'm a **Database Engineer at Therap (BD)**, where I work on Oracle performance t
 
 ### 🚀 Featured Projects
 
-- **Lab Buddy** — A real-time collaborative virtual-lab platform with 3D simulation and automated question generation from CSV
-  *React · Node.js · Express · MongoDB · ThreeJS · Socket.IO*
 - **ManushLagbe.com** — Location-based hiring platform matching workers to nearby clients using Geolocation API + Euclidean distance
   *React · Node.js · Express · MySQL*
 - **Cuttick** — Advanced e-ticketing system for railway ticket reissue, with user-to-user transactions via online payment gateway
   *React · Node.js · MySQL · Flutter*
+- **Lab Buddy** — A real-time collaborative virtual-lab platform with 3D simulation and automated question generation from CSV
+  *React · Node.js · Express · MongoDB · ThreeJS · Socket.IO*
 - **EMS (Exam Management System)** — Course creation, enrollment, quizzes, and result publishing for SUST
   *React · Node.js · Express · MongoDB · Ant Design*
 - **Bangla Hotel Review Sentiment Analysis** — LSTM-based sentiment classifier on a custom 3,000-review dataset, achieved **91% accuracy**
