@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Tithi Saha</h1>
 
 <p align="center">
-  <em>Database Engineer @ Therap (BD) · HCI & Usable Security Researcher · Full-Stack Developer · Programmer</em>
+  <em>Database Engineer @ Therap (BD) LTD · HCI & Usable Security Researcher · Full-Stack Developer · Programmer</em>
 </p>
 
+<!--
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sara.saha.2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -11,17 +12,17 @@
   <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
-
+-->
 ---
 
 ### 🗄️ About Me
 
 I'm a **Database Engineer at Therap (BD)**, where I work on Oracle Database Administration, query writing & performance tuning, large-scale data infrastructure, Oracle Cloud Infrastructure (OCI), and Oracle 26ai Database Microservices. My research background bridges **HCI and usable security**, I'm particularly interested in how users actually experience decentralized and privacy-preserving systems.
 
-- 🏢 Currently at **Therap (BD)** working on **query writing & optimization, Oracle RAC Database, OCI, AWR Warehouse from configuration with automated ETL process to everyday use, network and database link configuration among databases, database migration, patching, Oracle 26ai Database Microservices**
+- 🏢 Currently at **Therap (BD)** working on **query writing & optimization, Oracle RAC Database, OCI, AWR Warehouse from configuration with automated ETL process to everyday use, network and database link configuration among databases, database migration, patching, Oracle 26ai Database, GoldenGate 26ai Microservices**
 - 🔬 Recent Research and Development : **vector similarity search with ResNet50 embeddings + PostgreSQL** for image data
 - 📄 Poster accepted at **ACM SAC 2026** on usability challenges and privacy & security issues in decentralized messaging applications
-- 🎓 B.Sc. in CSE from **Shahjalal University of Science & Technology (SUST)**, 2024
+- 🎓 B.Sc. (Eng.) in CSE from **Shahjalal University of Science & Technology (SUST)**, 2024
 - 🏆 Hackathon champion (**HackNSU Season 4**) and competitive programmer (Codeforces max 1628)
 - 📫 Reach me at **sara.saha.2000@gmail.com**
 
@@ -44,8 +45,11 @@ I'm a **Database Engineer at Therap (BD)**, where I work on Oracle Database Admi
 
 ### 📚 Research & Publications
 
-- **Why Can't I Just Use a Username? Understanding Why Users Struggle with Messaging DApps**
-  *ACM/SIGAPP Symposium on Applied Computing (SAC 2026)* · Poster (Short Paper) · Thessaloniki, Greece, March 2026 · **First author**
+- **Why Can't I Just Use a Username? Understanding Why Users Struggle with Messaging DApps** <br>
+  *41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)* · Thessaloniki, Greece, March 2026 · Poster (Short Paper) [Accepted] · **First author**
+
+- **“Why Can’t I Just Use a Username?” Understanding Why Users Struggle with Decentralized Messaging Applications** <br>
+  *8th IEEE International Conference on Decentralized Applications and Infrastructures (IEEE DAPPS 2026)* · Fukuoka, Japan, July 2026 · Full Paper [Under Review] · **First author**
 
 **Undergraduate Thesis** — *From Clicks to Conversations: Assessing Usability of Decentralized Messaging Applications*
 Supervisor: Dr. Farida Chowdhury (BracU, ex-SUST)
